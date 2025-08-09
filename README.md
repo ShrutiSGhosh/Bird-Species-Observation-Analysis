@@ -74,9 +74,6 @@ Bird-Species-Observation-Analysis/
 │
 ├── README.md
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -102,6 +99,8 @@ Power BI file (.pbix) and PDF export
 
 Final PPT and PDF report
 
+Video Presentation: [https://drive.google.com/file/d/14Chzhh-_SZSBJN47JFc03Eq-RMdsWK1g/view?usp=sharing]
+
 README.md file
 
 Check file sizes – If .pbix > 25 MB, you’ll need Git LFS (Large File Storage).
@@ -116,45 +115,6 @@ git remote add origin <repo-url>
 git push -u origin main
 After push → verify on GitHub that all folders and files are accessible.
 
-If you want, I can also make you a ready-to-upload README.md file so you can drop it directly into the GitHub folder without editing.
-
-Do you want me to prepare that as a standalone file for you now?
-
-
-
-
-
-
-
-
-
-Ask ChatGPT
-You said:
-could you help me with the description
-
-
-ChatGPT said:
-Here’s a polished project description you can use in your README, GitHub repo, or report introduction:
-
-Project Description
-This project, Bird Species Observation Analysis, explores over 17,000 bird observation records collected from forest and grassland habitats.
-The aim is to understand species diversity, environmental influences on bird activity, and conservation priorities based on the Partners in Flight (PIF) Watchlist.
-
-Using Python (Jupyter Notebook) for cleaning and exploratory analysis, and Power BI for interactive visualization, the project reveals patterns in species distribution, seasonal trends, and environmental correlations.
-Key insights include:
-
-Which species are most frequently observed.
-
-How temperature, humidity, and disturbances impact bird activity.
-
-Seasonal variation in observations.
-
-The proportion of conservation priority species.
-
-This analysis supports wildlife monitoring efforts by highlighting patterns that can guide conservation planning, habitat management, and resource allocation.
-
-Tools used: Python (Pandas, Matplotlib), Power BI, Excel, GitHub.
-Author: Shruti Sumadhur Ghosh | Contact: shrutisghosh@outlook.com
 
 Disclaimer
 This project is developed for educational purposes only.
